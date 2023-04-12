@@ -1,6 +1,6 @@
 # ProjectZara = Homework Feedback Chatbot
 
-The **Homework Feedback Chatbot** is a cutting-edge educational tool designed to help students understand and improve on their homework. By providing personalized feedback, the chatbot helps students identify areas where they need to improve and offers guidance on how to correct their mistakes.
+The **Educational Chatbot** is a cutting-edge educational tool designed to help students understand and improve on their homework. By providing personalized feedback, the chatbot helps students identify areas where they need to improve and offers guidance on how to correct their mistakes.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ The Homework Feedback Chatbot is packed with useful features, including:
 
 ## Contributing
 
-We welcome contributions from anyone interested in improving the Homework Feedback Chatbot. If you'd like to contribute, simply fork this repository and submit a pull request with your changes. We'll review your changes and merge them into the main branch if they meet our standards.
+We welcome contributions from anyone interested in improving the ProjectZara and it's mission. If you'd like to contribute, simply fork this repository and submit a pull request with your changes. We'll review your changes and merge them into the main branch if they meet our standards.
 
 ## License
 
