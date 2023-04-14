@@ -7,7 +7,7 @@ class Chatbot:
         self.state = "INITIAL"
 
         # Set up OpenAI API with API key
-        openai.api_key = //will change later 
+        openai.api_key = #will change later 
 
     def get_response(self, input_text):
         if self.state == "INITIAL":
