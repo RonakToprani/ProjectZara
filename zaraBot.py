@@ -13,7 +13,7 @@ class zaraBot:
     def get_response(self, input_text):
         if self.state == "INITIAL":
             # Greet the user and prompt for input
-            response = "Hi, I'm " + self.name + ", a friendly StudyBot designed to help you with homework problems. How can I assist you today?"
+            response = "Hey, I'm " + self.name + ", a friendly StudyBot designed to help you with homework problems. How can I assist you today?"
             self.state = "WAITING_INPUT"
         elif self.state == "WAITING_INPUT":
             # Send user input to OpenAI API to generate a response
