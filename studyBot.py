@@ -1,7 +1,7 @@
 import openai
 
 class Chatbot:
-    def __init__(self, name, api_key):
+    def __init__(self, api_key):
         # Initialize chatbot's state
         self.state = "INITIAL"
 
