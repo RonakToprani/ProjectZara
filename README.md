@@ -1,6 +1,6 @@
 # ProjectZara = Homework Feedback Chatbot
 
-The **Educational Chatbot** is a cutting-edge educational tool designed to help students understand and improve on their homework. By providing personalized feedback, the chatbot helps students identify areas where they need to improve and offers guidance on how to correct their mistakes.
+The **Educational Chatbot** is an educational tool designed to help students understand and improve on their homework. By providing personalized feedback, the chatbot helps students identify areas where they need to improve and offers guidance on how to correct their mistakes.
 
 ## Getting Started
 
