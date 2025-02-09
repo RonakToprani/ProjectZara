@@ -1,6 +1,6 @@
 # ProjectZara = Homework Feedback Chatbot
 
-(built for personal use)
+(built for personal use) Education tool - that doesn't ever give you the answer. 
 
 ## Contributing
 
