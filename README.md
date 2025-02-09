@@ -10,6 +10,4 @@ We welcome contributions from anyone interested in improving the ProjectZara and
 
 The Homework Feedback Chatbot is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
 
-If you have any questions or comments about the Homework Feedback Chatbot, please feel free to [contact us](mailto:chatbot@homeworkfeedback.com). We would be more than happy to hear from you!
